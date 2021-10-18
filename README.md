@@ -13,7 +13,7 @@ The dashboard developed on R Shiny technology will be integrated with the countr
 The dashboard provides access to timely information required for decision making at the national and sub-national levels.
 
 ## Process of development of the Dhis2 app
-First The Dashboard was built using R shiny and hosted on the shinyapps.io servers the Rstudio hosting services, Then the app url was used to integrate in the 3 platforms using an iframe.
+First, the dashboard was built using R shiny and hosted on the shinyapps.io servers the Rstudio hosting services, then the app url was used to integrate into the 3 platforms using an iframe.
 
 In this dhis2 in the App.js file in the DTNigeria/src/ directory starting from line 14. it shows how the iframe was used which connects to the dashboard on shinyapps.io servers 
 
