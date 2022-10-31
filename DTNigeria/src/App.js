@@ -12,7 +12,7 @@ const query = {
 const MyApp = () => (
     
     <div>
-      <iframe height="800" width="100%" frameborder="no" src="https://afenetgeeks.shinyapps.io/RI-VPDs-triangulation-dashboard-development-version/"> </iframe>
+      <iframe height="800" width="100%" frameborder="no" src="https://afenetgeeks.shinyapps.io/data-triangulation-monthly-review/"> </iframe>
     </div>
 )
 
